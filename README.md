@@ -1,0 +1,1 @@
+Should work, the thing is I took the base from another project I created and just renamed some things. But I've yet to grasp namespace, reflection and those C# things, so just "kind of" renamed things, but under the hood they have the same names as before. That's why it might break.
